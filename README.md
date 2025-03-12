@@ -45,6 +45,10 @@
 
    *Deng W, Pei J, Kong K, et al*. EMNLP 2023 [C]. [[pdf](<https://aclanthology.org/2023.emnlp-main.864.pdf>)]
 
+1. **Syllogistic Reasoning for Legal Judgment Analysis**.
+
+   *Deng W, Pei J, Kong K, et al*. EMNLP 2023 [C]. [[pdf](<https://aclanthology.org/2023.emnlp-main.864.pdf>)]
+
 #### &nbsp;&nbsp;&nbsp;2024 ####
 1. **Using LLMs to Discover Legal Factors**.
 
