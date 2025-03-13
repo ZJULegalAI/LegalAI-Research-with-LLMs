@@ -91,14 +91,85 @@
 
    *Gray M, Savelka J, Oliver W, et al*. JURIX 2024 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241234>)]
 
-1. **Explicitly Integrating Judgment Prediction withvLegal Document Retrieval: A Law-Guided Generative Approach**.
+2. **Explicitly Integrating Judgment Prediction withvLegal Document Retrieval: A Law-Guided Generative Approach**.
 
    *Qin W, Cao Z, Yu W, et al*. SIGIR 2024 [C]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3626772.3657717?casa_token=7CAbBKNisaQAAAAA:hfL7WXrkK5AvX1Y7m8NByE_VAOZgeLY-gX6DsZScDqRZF0vSBfkyT07OhF9s3uLsbaGk5tCRNa8Z>)]
 
+3. **CADLRA: A multi-charge prediction method based on the Criminal Act-Driven Law Retrieval Augmentation**.
+
+   *Feng J, Zhao L, Qin H, et al*. Engineering Applications of Artificial Intelligence [J]. [[pdf](<https://www.sciencedirect.com/science/article/pii/S0952197624007772/pdfft?md5=d5b552ed042378bf0aec6d04ab08cd6d&pid=1-s2.0-S0952197624007772-main.pdf>)]
+
+4. **Chinese legal judgment prediction via knowledgeable prompt learning**.
+
+   *Sun J, Huang S, Wei C*. Expert Systems with Applications [J]. [[pdf](<https://www.sciencedirect.com/science/article/pii/S0957417423026799/pdfft?md5=d162260aeff07804848c7eabaaff25f9&pid=1-s2.0-S0957417423026799-main.pdf>)]
+
+5. **Legal Judgment Prediction with LLM and Graph Contrastive Learning Networks**.
+
+   *Xia Y, Luo X*. CSAI 2024 [C]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3709026.3709068?casa_token=Rl1sIKwQF58AAAAA:TxZbQp4bKQnNpxzLEDpnKztm6EiOwVqtbDtwEBIagqX2ttU0vqp8W8j_36x16GAbz6lqnEXw5U_wjg>)]
+   
+6. **A Hierarchical Neural Framework for Classification and its Explanation in Large Unstructured Legal Documents**.
+
+   *Prasad N, Boughanem M, Dkaki T*. arXiv [EB/OL]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3709026.3709068?casa_token=Rl1sIKwQF58AAAAA:TxZbQp4bKQnNpxzLEDpnKztm6EiOwVqtbDtwEBIagqX2ttU0vqp8W8j_36x16GAbz6lqnEXw5U_wjg>)]
+
+7. **Rethinking the Development of Large Language Models from the Causal Perspective: A Legal Text Prediction Case Study**.
+
+   *Chen H, Zhang L, Liu Y, et al*. AAAI 2024 [C]. [[pdf](<https://ojs.aaai.org/index.php/AAAI/article/download/30086/31914>)]
+
+8. **Boosting court judgment prediction and explanation using legal entities**.
+
+   *Benedetto I, Koudounas A, Vaiani L, et al*. Artificial Intelligence and Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-024-09397-8.pdf>)]
+
+9. **Enabling Discriminative Reasoning in LLMs for Legal Judgment Prediction**.
+
+   *Deng C, Mao K, Zhang Y, et al*. EMNLP (Findings) 2024 [C]. [[pdf](<https://arxiv.org/pdf/2407.01964>)]
+
+10. **Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Document**.
+
+   *Prasad N, Boughanem M, Dkaki T*. ECIR (2) 2024 [C]. [[pdf](<https://arxiv.org/pdf/2403.06872>)]
+
+11. **LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration**.
+
+   *Prasad N, Boughanem M, Dkaki T, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10750819.pdf>)]
+
+12. **Neural Data Augmentation for Legal Overruling Task: Small Deep Learning Models vs. Large Language Models**.
+
+   *Sheik R, Siva Sundara K P, Nirmala S J*. Neural Processing Letters [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s11063-024-11574-4.pdf>)]
+
+13. **GOLDCOIN: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory**.
+
+   *Fan W, Li H, Deng Z*. IEEE Access [J]. [[pdf](<>)]
+
+14. **Experimental Study of In-Context Learning for Text Classification and Its Application to Legal Document Review in Construction Delay Disputes**.
+
+   *Huber-Fliflet N, Zhang J, Gronvall P*. IEEE Big Data 2024 [C]. [[pdf](<https://ieeexplore.ieee.org/iel8/10824975/10824942/10826061.pdf?casa_token=s7AlN8_ORVYAAAAA:XzADl2pWde8Um6Lso5GmAo5maoZsbh42zMRkQ4tgq_CeX_-INAnV3hTalrm7LTBtxV8E6gWaIHcQXA>)]
+
+   
 #### &nbsp;&nbsp;&nbsp;2025 ####
 
 1. **An LLMs‐based neuro‐symbolic legal judgment prediction framework for civil cases**.
 
-   *Wei B, Yu Y, Gan L, et al*. Artif. Intell. Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-025-09433-1.pdf>)]
+   *Wei B, Yu Y, Gan L, et al*. Artificial Intelligence and Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-025-09433-1.pdf>)]
+
+2. **Predicting Violated Law Sections Using Document Classification Techniques**.
+
+   *Satyapanich T, Wattanakul N, Lehiang T*. ICMTAI 2025 [C]. [[pdf](<https://link.springer.com/content/pdf/10.1007/978-981-96-0695-5.pdf>)]
+
+3. **Topic classification of case law using a large language model and a new taxonomy for UK law: AI insights into summary judgment**.
+
+   *Sargeant H, Izzidien A, Steffek F*. Artificial Intelligence and Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-025-09434-0.pdf>)]
+
+4. **Courtroom-LLM: A Legal-Inspired Multi-LLM Framework for Resolving Ambiguous Text Classifications**.
+
+   *Jung S, Jung J*. COLING 2025 [C]. [[pdf](<https://aclanthology.org/2025.coling-main.493.pdf>)]
+
+5. **NYAYAANUMANA and INLEGALLLAMA: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**.
+
+   *Nigam S K, Patnaik B D, Mishra S*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2412.08385>)]
+
+
+
+
+
+
 
    
