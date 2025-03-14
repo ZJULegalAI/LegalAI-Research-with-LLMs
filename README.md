@@ -16,6 +16,10 @@
 
    *Drápal J, Westermann H, Savelka J*. JURIX 2023 [C]. [[pdf](<https://arxiv.org/pdf/2310.18729>)]
 
+2. **A hierarchical neural framework for classification and its explanation in large unstructured legal documents**.
+
+   *Prasad N, Boughanem M, Dkaki T*. CIKM 2023 [C]. [[pdf](<https://arxiv.org/pdf/2309.10563>)]
+
 #### &nbsp;&nbsp;&nbsp;2024 ####
 
 1. **Legal Case Retrieval: A Survey of the State of the Art**.
