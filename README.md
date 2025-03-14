@@ -61,7 +61,39 @@
 
 8. **LeDQA: A Chinese Legal Case Document-based Question Answering Dataset**.
 
-   *Wiratunga N, Abeyratne R, Jayawardena L, et al*. ICCBR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2404.04302>)]
+   *Liu B, Zhu Z, Ai Q, et al*. CIKM 2024 [C]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3627673.3679154>)]
+
+9. **Pushing the Boundaries of Legal Information Processing with Integration of Large Language Models**.
+
+   *Nguyen C, Tran T, Le K, et al*. JSAI-isAI 2024 [C]. [[pdf](<https://link.springer.com/content/pdf/10.1007/978-981-97-3076-6.pdf>)]
+
+10. **Learning Interpretable Legal Case Retrieval via Knowledge-Guided Case Reformulation**.
+
+   *Deng C, Mao K, Dou Z*. EMNLP 2024 [C]. [[pdf](<https://arxiv.org/pdf/2406.19760>)]
+   
+11. **Leverage Knowledge Graph and Large Language Model for Law Article Recommendation: A Case Study of Chinese Criminal Law**.
+
+   *Chen Y, Chen M, Zhu Y, et al*. arXiv [EB/OL]. [[pdf](<https://arxiv.org/pdf/2410.04949>)]
+
+12. **Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**.
+
+   *Prasad N, Boughanem M, Dkaki T*. ECIR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2403.06872>)]
+
+13. **LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration**.
+
+   *Wang X, Zhang X, Hoo V, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10750819.pdf>)]
+
+14. **A hybrid approach to legal textual entailment**.
+
+   *Steging C, Leeuwen L V*. JURISIN 2024 [C]. [[pdf](<https://www.steging.nl/wp-content/uploads/2024/09/JURISIN2024.pdf>)]
+
+15. **CAPTAIN at COLIEE 2024: Large Language Model for Legal Text Retrieval and Entailment**.
+
+   *Nguyen P, Nguyen C, Nguyen H, et al*. JSAI-isAI 2024 [C]. [[pdf](<https://link.springer.com/content/pdf/10.1007/978-981-97-3076-6.pdf>)]
+
+16. **H-LegalKI: A Hierarchical Legal Knowledge Integration Framework for Legal Community Question Answering**.
+
+   *Jiang Y, Guan Z, Zhao J, et al*. EMNLP (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-emnlp.856.pdf>)]
 
 
 #### &nbsp;&nbsp;&nbsp;2025 ####
