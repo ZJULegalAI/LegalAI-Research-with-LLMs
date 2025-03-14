@@ -28,11 +28,41 @@
 
    *Argüelles Terrón G, Martín Chozas P, Rodríguez Doncel V*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230983>)]
 
+
 #### &nbsp;&nbsp;&nbsp;2024 ####
 
 1. **Legal Case Retrieval: A Survey of the State of the Art**.
 
    *Feng Y, Li C, Ng V*. ACL 2024 [C]. [[pdf](<https://aclanthology.org/2024.acl-long.350.pdf>)]
+
+2. **Explicitly Integrating Judgment Prediction with Legal Document Retrieval A Law-Guided Generative Approach**.
+
+   *Qin W, Cao Z, Yu W, et al*. SIGIR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2312.09591>)]
+
+3. **Leveraging Large Language Models for Relevance Judgments in Legal Case Retrieval**.
+
+   *Ma S, Chen C, Chu Q, et al*. arXiv [EB/OL]. [[pdf](<https://arxiv.org/pdf/2403.18405?>)]
+
+4. **Interpretable long-form legal question answering with retrieval-augmented large language models**.
+
+   *Louis A, van Dijck G, Spanakis G*. AAAI 2024 [C]. [[pdf](<https://ojs.aaai.org/index.php/AAAI/article/view/30232/32192>)]
+
+5. **Exploiting LLMs' Reasoning Capability to Infer Implicit Concepts in Legal Information Retrieval**.
+
+   *Nguyen H L, Nguyen T M, Nguyen D M, et al*. NeLaMKRR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2410.12154>)]
+
+6. **LawLLM: Law Large Language Model for the US Legal System**.
+
+   *Shu D, Zhao H, Liu X, et al*. CIKM 2024 [C]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3627673.3680020>)]
+
+7. **CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**.
+
+   *Wiratunga N, Abeyratne R, Jayawardena L, et al*. ICCBR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2404.04302>)]
+
+8. **LeDQA: A Chinese Legal Case Document-based Question Answering Dataset**.
+
+   *Wiratunga N, Abeyratne R, Jayawardena L, et al*. ICCBR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2404.04302>)]
+
 
 #### &nbsp;&nbsp;&nbsp;2025 ####
 
