@@ -158,11 +158,99 @@
 ## Legal Generation
 
 #### &nbsp;&nbsp;&nbsp;2023 ####
+1. **Applying Large Language Models for Enhancing Contract Drafting**.
+
+   *Kwok-Yan Lam, Victor C. W. Cheng, Zee Kin Yeong*. Artif. JURIX 2023 [C]. [[pdf](<https://ceur-ws.org/Vol-3423/paper7.pdf>)]
+
+2. **Harnessing GPT-3.5-turbo for Rhetorical Role Prediction in Legal Cases**.
+
+   *Kwok-Yan Lam, Victor C. W. Cheng, Zee Kin Yeong*. Artif. EMNLP 2023 [C]. [[pdf](<https://arxiv.org/pdf/2310.17413>)]
+
+3. **ChatGPT as an Artificial Lawyer?**.
+
+   *Jinzhe Tan, Hannes Westermann, Karim Benyekhlef*. ICAIL 2023 [C]. [[pdf](<https://ceur-ws.org/Vol-3435/short2.pdf>)]
+
+4. **LLMs–the Good, the Bad or the Indispensable?: A Use Case on Legal Statute Prediction and Legal Judgment Prediction on Indian Court Cases**.
+
+   *Shaurya Vats, Atharva Zope, Somsubhra De, Anurag Sharma, Upal Bhattacharya, Shubham Kumar Nigam, Shouvik Guha, Koustav Rudra, Kripabandhu Ghosh*. EMNLP (Findings) 2023 [C]. [[pdf](<https://aclanthology.org/2023.findings-emnlp.831.pdf>)]
+
+5. **Adapting Abstractive Summarization to Court Examinations in a Zero-Shot Setting: A Short Technical Paper**.
+
+   *Maya Epps, Lucille Njoo, Chéla Willey, Andrew Forney*. ICAIL 2023 [C]. [[pdf](<https://ceur-ws.org/Vol-3435/short3.pdf>)]
 
 #### &nbsp;&nbsp;&nbsp;2024 ####
+1. **Attention: Your Conversational Data is What They Need**.
+
+   *Merane, Jakob*. Artif. JURIX 2024 [C]. [[pdf](<https://ceur-ws.org/Vol-3423/paper7.pdf>)]
+
+2. **Applicability of Large Language Models and Generative Models for Legal Case Judgement Summarization**.
+
+   *Aniket Deroy,  Kripabandhu Ghosh, Saptarshi Ghosh*. Artificial Intelligence and Law [J]. [[pdf](<https://link.springer.com/article/10.1007/s10506-024-09411-z>)]
+
+3. **Dallma: Semi-Structured Legal Reasoning and Drafting with Large Language Models**.
+
+   *Hannes Westermann*. ICML 2024 [C]. [[pdf](<https://blog.genlaw.org/pdfs/genlaw_icml2024/58.pdf>)]
+
+4. **Divide and Conquer: Legal Concept-guided Criminal Court View Generation**.
+
+   *Qi Xu, Xiao Wei, Hang Yu, Qian Liu, Hao Fei*. EMNLP (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-emnlp.194.pdf>)]
+
+5. **0x.Yuan at SemEval-2024 Task 5: Enhancing Legal Argument Reasoning with Structured Prompts**.
+
+   *Yu-an Lu, Hung-yu Kao*. SemEval 2024 [C]. [[pdf](<https://aclanthology.org/2024.semeval-1.60.pdf>)]
+
+6. **Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models**.
+
+   *Antoine Louis, Gijs van Dijck, Gerasimos Spanakis*. NAACL 2024 [C]. [[pdf](<https://arxiv.org/pdf/2309.17050>)]
+
+7. **Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models**.
+
+   *Yifei Liu, Yiquan Wu, Ang Li, Yating Zhang, Changlong Sun, Weiming Lu, Fei Wu, Kun Kuang*. NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-naacl.177.pdf>)]
+
+8. **One Law, Many Languages: Benchmarking Multilingual Legal Reasoning for Judicial Support**.
+
+   *Ronja Stern, Vishvaksenan Rasiah, Veton Matoshi, Srinanda Brügger Bose, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, Joel Niklaus*. ACL 2024 [C]. [[pdf](<https://arxiv.org/pdf/2306.09237>)]
+
+9. **Developing a Pragmatic Benchmark for Assessing Korean Legal Language Understanding in Large Language Models**.
+
+   *Ronja Stern, Vishvaksenan Rasiah, Veton Matoshi, Srinanda Brügger Bose, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, Joel Niklaus*. COLING 2024 [C]. [[pdf](<https://arxiv.org/pdf/2410.08731>)]
+
+10. **FedLFC: Towards Efficient Federated Multilingual Modeling with LoRA-based Language Family Clustering**.
+
+   *Zhihan Guo, Yifei Zhang, Zhuo Zhang, Zenglin Xu, Irwin King*. Artif. NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-naacl.98.pdf>)]
+
+11. **Rethinking the Development of Large Language Models from the Causal Perspective: A Legal Text Prediction Case Study**.
+
+   *Haotian Chen, Lingwei Zhang, Yiran Liu, Yang Yu*. AAAI 2024 [C]. [[pdf](<https://ojs.aaai.org/index.php/AAAI/article/view/30086/31914>)]
+
+12. **Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**.
+
+   *Matthew Dahl, Varun Magesh, Mirac Suzgun, Daniel E. Ho*. NeurIPS 2024 [C]. [[pdf](<https://arxiv.org/pdf/2401.01301>)]
+
+13. **SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain**.
+
+   *Pierre Colombo, Telmo Pires, Malik Boudiaf, Rui Melo, Dominic Culver, Sofia Morgado, Etienne Malaboeuf, Gabriel Hautreux, Johanne Charpentier, Michael Desa*. ICML 2024 [C]. [[pdf](<https://arxiv.org/pdf/2407.19584>)]
+
+14. **A case study for automated attribute extraction from legal documents using large language models**.
+
+   *Subinay Adhikary, Procheta Sen, Dwaipayan Roy & Kripabandhu Ghosh*. Artificial Intelligence and Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-024-09425-7.pdf>)]
+
+15. **SELF-EXPERTISE: Knowledge-based Instruction Dataset Augmentation for a Legal Expert Language Model**.
+
+   *Minju Kim, Haein Jung, Myoung-wan Koo.  NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-naacl.69.pdf>)]
+
+16. **Agenda-Driven Question Generation: A Case Study in the Courtroom Domain**.
+
+   *Yi Fung, Anoop Kumar, Aram Galstyan, Heng Ji, Prem Natarajan.  NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.lrec-main.49.pdf>)]
 
 #### &nbsp;&nbsp;&nbsp;2025 ####
+1. **Attention: Your Conversational Data is What They Need**.
 
+   *Merane, Jakob*. Artif. JURIX 2024 [C]. [[pdf](<https://ceur-ws.org/Vol-3423/paper7.pdf>)]
+
+2. **Applicability of Large Language Models and Generative Models for Legal Case Judgement Summarization**.
+
+   *Aniket Deroy,  Kripabandhu Ghosh, Saptarshi Ghosh*. Artificial Intelligence and Law [J]. [[pdf](<https://link.springer.com/article/10.1007/s10506-024-09411-z>)]
 
 ## Legal Classification
 
