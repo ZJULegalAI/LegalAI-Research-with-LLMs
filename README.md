@@ -329,31 +329,27 @@
 
    *Chen H, Zhang L, Liu Y, et al*. AAAI 2024 [C]. [[pdf](<https://ojs.aaai.org/index.php/AAAI/article/download/30086/31914>)]
 
-8. **Boosting court judgment prediction and explanation using legal entities**.
-
-   *Benedetto I, Koudounas A, Vaiani L, et al*. Artificial Intelligence and Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-024-09397-8.pdf>)]
-
-9. **Enabling Discriminative Reasoning in LLMs for Legal Judgment Prediction**.
+8. **Enabling Discriminative Reasoning in LLMs for Legal Judgment Prediction**.
 
    *Deng C, Mao K, Zhang Y, et al*. EMNLP (Findings) 2024 [C]. [[pdf](<https://arxiv.org/pdf/2407.01964>)]
 
-10. **Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Document**.
+9. **Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Document**.
 
    *Prasad N, Boughanem M, Dkaki T*. ECIR (2) 2024 [C]. [[pdf](<https://arxiv.org/pdf/2403.06872>)]
 
-11. **LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration**.
+10. **LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration**.
 
    *Prasad N, Boughanem M, Dkaki T, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10750819.pdf>)]
 
-12. **Neural Data Augmentation for Legal Overruling Task: Small Deep Learning Models vs. Large Language Models**.
+11. **Neural Data Augmentation for Legal Overruling Task: Small Deep Learning Models vs. Large Language Models**.
 
    *Sheik R, Siva Sundara K P, Nirmala S J*. Neural Processing Letters [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s11063-024-11574-4.pdf>)]
 
-13. **GOLDCOIN: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory**.
+12. **GOLDCOIN: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory**.
 
    *Fan W, Li H, Deng Z*. IEEE Access [J]. [[pdf](<>)]
 
-14. **Experimental Study of In-Context Learning for Text Classification and Its Application to Legal Document Review in Construction Delay Disputes**.
+13. **Experimental Study of In-Context Learning for Text Classification and Its Application to Legal Document Review in Construction Delay Disputes**.
 
    *Huber-Fliflet N, Zhang J, Gronvall P*. IEEE Big Data 2024 [C]. [[pdf](<https://ieeexplore.ieee.org/iel8/10824975/10824942/10826061.pdf?casa_token=s7AlN8_ORVYAAAAA:XzADl2pWde8Um6Lso5GmAo5maoZsbh42zMRkQ4tgq_CeX_-INAnV3hTalrm7LTBtxV8E6gWaIHcQXA>)]
 
