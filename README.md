@@ -142,15 +142,11 @@
 
    *Wahidur R S, Kim S, Choi H, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10887211.pdf>)]
 
-3. **Courtroom-LLM: A Legal-Inspired Multi-LLM Framework for Resolving Ambiguous Text Classifications**.
-
-   *Jung S, Jung J*. COLING 2025 [C]. [[pdf](<https://aclanthology.org/2025.coling-main.493.pdf>)]
-
-4. **Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**.
+3. **Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**.
 
    *Hu Y, Gan L, Xiao W, et al*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2501.06521>)]
 
-5. **NYAYAANUMANA and INLEGALLLAMA: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**.
+4. **NYAYAANUMANA and INLEGALLLAMA: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**.
 
    *Nigam S K, Patnaik B D, Mishra S, et al*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2412.08385>)]
 
