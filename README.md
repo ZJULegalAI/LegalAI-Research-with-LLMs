@@ -95,6 +95,10 @@
 
    *Yuan M, Kao B, Wu T H, et al*. Artif. Intell. Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-023-09367-6.pdf>)]
 
+20. **One Law, Many Languages: Benchmarking Multilingual Legal Reasoning for Judicial Support**.
+
+   *Ronja Stern, Vishvaksenan Rasiah, Veton Matoshi, Srinanda Brügger Bose, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, Joel Niklaus*. ACL 2024 [C]. [[pdf](<https://arxiv.org/pdf/2306.09237>)]
+
 
 #### &nbsp;&nbsp;&nbsp;2025 ####
 
@@ -329,6 +333,11 @@
 14. **AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation**.
 
    *He Z, Cao P, Wang C, et al*. EMNLP (Findings) 2024 [C]. [[pdf](<https://arxiv.org/pdf/2403.02959>)]
+
+15. **One Law, Many Languages: Benchmarking Multilingual Legal Reasoning for Judicial Support**.
+
+   *Ronja Stern, Vishvaksenan Rasiah, Veton Matoshi, Srinanda Brügger Bose, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, Joel Niklaus*. ACL 2024 [C]. [[pdf](<https://arxiv.org/pdf/2306.09237>)]
+
    
 #### &nbsp;&nbsp;&nbsp;2025 ####
 
