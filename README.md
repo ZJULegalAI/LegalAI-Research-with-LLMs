@@ -24,10 +24,6 @@
 
    *Janatian S, Westermann H, Tan J, et al*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230962>)]
 
-4. **Event Extraction and Semantic Representation from Spanish Workers’ Statute Using Large Language Models**.
-
-   *Argüelles Terrón G, Martín Chozas P, Rodríguez Doncel V*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230983>)]
-
 
 #### &nbsp;&nbsp;&nbsp;2024 ####
 
@@ -165,6 +161,10 @@
 5. **Adapting Abstractive Summarization to Court Examinations in a Zero-Shot Setting: A Short Technical Paper**.
 
    *Maya Epps, Lucille Njoo, Chéla Willey, Andrew Forney*. ICAIL 2023 [C]. [[pdf](<https://ceur-ws.org/Vol-3435/short3.pdf>)]
+
+6. **Event Extraction and Semantic Representation from Spanish Workers’ Statute Using Large Language Models**.
+
+   *Argüelles Terrón G, Martín Chozas P, Rodríguez Doncel V*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230983>)]
 
 #### &nbsp;&nbsp;&nbsp;2024 ####
 1. **Attention: Your Conversational Data is What They Need**.
