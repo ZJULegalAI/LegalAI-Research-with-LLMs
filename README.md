@@ -8,7 +8,7 @@
 
    *Siino M, Falco M, Croce D, et al*. IEEE Access [J]. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10850911)]
 
-## Legal Search
+## Legal Retrieval
 
 #### &nbsp;&nbsp;&nbsp;2023 ####
 
