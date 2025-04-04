@@ -71,55 +71,51 @@
 
    *Chen Y, Chen M, Zhu Y, et al*. arXiv [EB/OL]. [[pdf](<https://arxiv.org/pdf/2410.04949>)]
 
-12. **Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**.
-
-   *Prasad N, Boughanem M, Dkaki T*. ECIR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2403.06872>)]
-
-13. **LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration**.
+12. **LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration**.
 
    *Wang X, Zhang X, Hoo V, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10750819.pdf>)]
 
-14. **A hybrid approach to legal textual entailment**.
+13. **A hybrid approach to legal textual entailment**.
 
    *Steging C, Leeuwen L V*. JURISIN 2024 [C]. [[pdf](<https://www.steging.nl/wp-content/uploads/2024/09/JURISIN2024.pdf>)]
 
-15. **CAPTAIN at COLIEE 2024: Large Language Model for Legal Text Retrieval and Entailment**.
+14. **CAPTAIN at COLIEE 2024: Large Language Model for Legal Text Retrieval and Entailment**.
 
    *Nguyen P, Nguyen C, Nguyen H, et al*. JSAI-isAI 2024 [C]. [[pdf](<https://link.springer.com/content/pdf/10.1007/978-981-97-3076-6.pdf>)]
 
-16. **H-LegalKI: A Hierarchical Legal Knowledge Integration Framework for Legal Community Question Answering**.
+15. **H-LegalKI: A Hierarchical Legal Knowledge Integration Framework for Legal Community Question Answering**.
 
    *Jiang Y, Guan Z, Zhao J, et al*. EMNLP (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-emnlp.856.pdf>)]
 
-17. **Transforming legal text interactions: leveraging natural language processing and large language models for legal support in Palestinian cooperatives**.
+16. **Transforming legal text interactions: leveraging natural language processing and large language models for legal support in Palestinian cooperatives**.
 
    *Maree M, Al-Qasem R, Tantour B*. International Journal of Information Technology [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s41870-023-01584-1.pdf>)]
 
-18. **Leveraging semantic model and LLM for bootstrapping a legal entity extraction: an industrial use case**.
+17. **Leveraging semantic model and LLM for bootstrapping a legal entity extraction: an industrial use case**.
 
    *Breton J, Billami M B, Chevalier M, et al*. SEMANTICS 2024 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/SSW240004>)]
 
-19. **LegalDiscourse: Interpreting When Laws Apply and To Whom**.
+18. **LegalDiscourse: Interpreting When Laws Apply and To Whom**.
 
    *Spangher A, Xue Z, Wu T L, et al*. NAACL 2024 [C]. [[pdf](<https://aclanthology.org/2024.naacl-long.472.pdf>)]
 
-20. **AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation**.
+19. **AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation**.
 
    *He Z, Cao P, Wang C, et al*. EMNLP (Findings) 2024 [C]. [[pdf](<https://arxiv.org/pdf/2403.02959>)]
 
-21. **Leveraging Natural Language Processing and Large Language Models for Assisting Due Diligence in the Legal Domain**.
+20. **Leveraging Natural Language Processing and Large Language Models for Assisting Due Diligence in the Legal Domain**.
 
    *Jang M, Stikkel G*. NAACL 2024 [C]. [[pdf](<https://aclanthology.org/2024.naacl-industry.14.pdf>)]
 
-22. **Using LLMs to Discover Legal Factors**.
+21. **Using LLMs to Discover Legal Factors**.
 
    *Gray M, Savelka J, Oliver W, et al*. JURIX 2024 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241234>)]
 
-23. **Fighting the Knowledge Representation Bottleneck with Large Language Models**.
+22. **Fighting the Knowledge Representation Bottleneck with Large Language Models**.
 
    *Billi M, Pisano G, Sanchi M*. JURIX 2024 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241230>)]
 
-24. **Bringing legal knowledge to the public by constructing a legal question bank using large-scale pre-trained language model**.
+23. **Bringing legal knowledge to the public by constructing a legal question bank using large-scale pre-trained language model**.
 
    *Yuan M, Kao B, Wu T H, et al*. Artif. Intell. Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-023-09367-6.pdf>)]
 
