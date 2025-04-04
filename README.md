@@ -131,83 +131,80 @@
    *Janatian S, Westermann H, Tan J, et al*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230962>)]
 
 #### &nbsp;&nbsp;&nbsp;2024 ####
-1. **Attention: Your Conversational Data is What They Need**.
 
-   *Merane, Jakob*. Artif. JURIX 2024 [C]. [[pdf](<https://ceur-ws.org/Vol-3423/paper7.pdf>)]
-
-2. **Applicability of Large Language Models and Generative Models for Legal Case Judgement Summarization**.
+1. **Applicability of Large Language Models and Generative Models for Legal Case Judgement Summarization**.
 
    *Aniket Deroy,  Kripabandhu Ghosh, Saptarshi Ghosh*. Artificial Intelligence and Law [J]. [[pdf](<https://link.springer.com/article/10.1007/s10506-024-09411-z>)]
 
-3. **Dallma: Semi-Structured Legal Reasoning and Drafting with Large Language Models**.
+2. **Dallma: Semi-Structured Legal Reasoning and Drafting with Large Language Models**.
 
    *Hannes Westermann*. ICML 2024 [C]. [[pdf](<https://blog.genlaw.org/pdfs/genlaw_icml2024/58.pdf>)]
 
-4. **Divide and Conquer: Legal Concept-guided Criminal Court View Generation**.
+3. **Divide and Conquer: Legal Concept-guided Criminal Court View Generation**.
 
    *Qi Xu, Xiao Wei, Hang Yu, Qian Liu, Hao Fei*. EMNLP (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-emnlp.194.pdf>)]
 
-5. **0x.Yuan at SemEval-2024 Task 5: Enhancing Legal Argument Reasoning with Structured Prompts**.
+4. **0x.Yuan at SemEval-2024 Task 5: Enhancing Legal Argument Reasoning with Structured Prompts**.
 
    *Yu-an Lu, Hung-yu Kao*. SemEval 2024 [C]. [[pdf](<https://aclanthology.org/2024.semeval-1.60.pdf>)]
 
-6. **Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models**.
+5. **Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models**.
 
    *Antoine Louis, Gijs van Dijck, Gerasimos Spanakis*. NAACL 2024 [C]. [[pdf](<https://arxiv.org/pdf/2309.17050>)]
 
-7. **Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models**.
+6. **Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models**.
 
    *Yifei Liu, Yiquan Wu, Ang Li, Yating Zhang, Changlong Sun, Weiming Lu, Fei Wu, Kun Kuang*. NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-naacl.177.pdf>)]
 
-8. **One Law, Many Languages: Benchmarking Multilingual Legal Reasoning for Judicial Support**.
+7. **One Law, Many Languages: Benchmarking Multilingual Legal Reasoning for Judicial Support**.
 
    *Ronja Stern, Vishvaksenan Rasiah, Veton Matoshi, Srinanda Brügger Bose, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, Joel Niklaus*. ACL 2024 [C]. [[pdf](<https://arxiv.org/pdf/2306.09237>)]
 
-9. **Developing a Pragmatic Benchmark for Assessing Korean Legal Language Understanding in Large Language Models**.
+8. **Developing a Pragmatic Benchmark for Assessing Korean Legal Language Understanding in Large Language Models**.
 
    *Ronja Stern, Vishvaksenan Rasiah, Veton Matoshi, Srinanda Brügger Bose, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, Joel Niklaus*. COLING 2024 [C]. [[pdf](<https://arxiv.org/pdf/2410.08731>)]
 
-10. **FedLFC: Towards Efficient Federated Multilingual Modeling with LoRA-based Language Family Clustering**.
+9. **FedLFC: Towards Efficient Federated Multilingual Modeling with LoRA-based Language Family Clustering**.
 
    *Zhihan Guo, Yifei Zhang, Zhuo Zhang, Zenglin Xu, Irwin King*. Artif. NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-naacl.98.pdf>)]
 
-11. **Rethinking the Development of Large Language Models from the Causal Perspective: A Legal Text Prediction Case Study**.
+10. **Rethinking the Development of Large Language Models from the Causal Perspective: A Legal Text Prediction Case Study**.
 
    *Haotian Chen, Lingwei Zhang, Yiran Liu, Yang Yu*. AAAI 2024 [C]. [[pdf](<https://ojs.aaai.org/index.php/AAAI/article/view/30086/31914>)]
 
-12. **Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**.
+11. **Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**.
 
    *Matthew Dahl, Varun Magesh, Mirac Suzgun, Daniel E. Ho*. NeurIPS 2024 [C]. [[pdf](<https://arxiv.org/pdf/2401.01301>)]
 
-13. **SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain**.
+12. **SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain**.
 
    *Pierre Colombo, Telmo Pires, Malik Boudiaf, Rui Melo, Dominic Culver, Sofia Morgado, Etienne Malaboeuf, Gabriel Hautreux, Johanne Charpentier, Michael Desa*. ICML 2024 [C]. [[pdf](<https://arxiv.org/pdf/2407.19584>)]
 
-14. **A case study for automated attribute extraction from legal documents using large language models**.
+13. **A case study for automated attribute extraction from legal documents using large language models**.
 
    *Subinay Adhikary, Procheta Sen, Dwaipayan Roy & Kripabandhu Ghosh*. Artificial Intelligence and Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-024-09425-7.pdf>)]
 
-15. **SELF-EXPERTISE: Knowledge-based Instruction Dataset Augmentation for a Legal Expert Language Model**.
+14. **SELF-EXPERTISE: Knowledge-based Instruction Dataset Augmentation for a Legal Expert Language Model**.
 
    *Minju Kim, Haein Jung, Myoung-wan Koo.  NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-naacl.69.pdf>)]
 
-16. **Agenda-Driven Question Generation: A Case Study in the Courtroom Domain**.
+15. **Agenda-Driven Question Generation: A Case Study in the Courtroom Domain**.
 
    *Yi Fung, Anoop Kumar, Aram Galstyan, Heng Ji, Prem Natarajan.  NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.lrec-main.49.pdf>)]
    
-17. **CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**.
+16. **CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**.
 
    *Wiratunga N, Abeyratne R, Jayawardena L, et al*. ICCBR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2404.04302>)]
 
-18. **Fighting the Knowledge Representation Bottleneck with Large Language Models**.
+17. **Fighting the Knowledge Representation Bottleneck with Large Language Models**.
 
    *Billi M, Pisano G, Sanchi M*. JURIX 2024 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241230>)]
 
-19. **H-LegalKI: A Hierarchical Legal Knowledge Integration Framework for Legal Community Question Answering**.
+18. **H-LegalKI: A Hierarchical Legal Knowledge Integration Framework for Legal Community Question Answering**.
 
    *Jiang Y, Guan Z, Zhao J, et al*. EMNLP (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-emnlp.856.pdf>)]
 
-20. **LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration**.
+19. **LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration**.
 
    *Wang X, Zhang X, Hoo V, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10750819.pdf>)]
 
