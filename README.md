@@ -111,11 +111,7 @@
 
    *Gray M, Savelka J, Oliver W, et al*. JURIX 2024 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241234>)]
 
-22. **Fighting the Knowledge Representation Bottleneck with Large Language Models**.
-
-   *Billi M, Pisano G, Sanchi M*. JURIX 2024 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241230>)]
-
-23. **Bringing legal knowledge to the public by constructing a legal question bank using large-scale pre-trained language model**.
+22. **Bringing legal knowledge to the public by constructing a legal question bank using large-scale pre-trained language model**.
 
    *Yuan M, Kao B, Wu T H, et al*. Artif. Intell. Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-023-09367-6.pdf>)]
 
@@ -230,6 +226,10 @@
 17. **CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**.
 
    *Wiratunga N, Abeyratne R, Jayawardena L, et al*. ICCBR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2404.04302>)]
+
+18. **Fighting the Knowledge Representation Bottleneck with Large Language Models**.
+
+   *Billi M, Pisano G, Sanchi M*. JURIX 2024 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241230>)]
 
 #### &nbsp;&nbsp;&nbsp;2025 ####
 1. **Attention: Your Conversational Data is What They Need**.
