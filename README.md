@@ -130,19 +130,15 @@
 
 #### &nbsp;&nbsp;&nbsp;2025 ####
 
-1. **Enhancing legal assistance with AI: a comprehensive approach to intent classification and domain specific model tuning**.
-
-   *Bhatnagar M, Huchhanavar S*. Artif. Intell. Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-025-09441-1.pdf>)]
-
-2. **Legal Query RAG**.
+1. **Legal Query RAG**.
 
    *Wahidur R S, Kim S, Choi H, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10887211.pdf>)]
 
-3. **Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**.
+2. **Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**.
 
    *Hu Y, Gan L, Xiao W, et al*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2501.06521>)]
 
-4. **NYAYAANUMANA and INLEGALLLAMA: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**.
+3. **NYAYAANUMANA and INLEGALLLAMA: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**.
 
    *Nigam S K, Patnaik B D, Mishra S, et al*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2412.08385>)]
 
@@ -247,6 +243,10 @@
 2. **Applicability of Large Language Models and Generative Models for Legal Case Judgement Summarization**.
 
    *Aniket Deroy,  Kripabandhu Ghosh, Saptarshi Ghosh*. Artificial Intelligence and Law [J]. [[pdf](<https://link.springer.com/article/10.1007/s10506-024-09411-z>)]
+
+3. **Enhancing legal assistance with AI: a comprehensive approach to intent classification and domain specific model tuning**.
+
+   *Bhatnagar M, Huchhanavar S*. Artif. Intell. Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-025-09441-1.pdf>)]
 
 ## Legal Classification
 
