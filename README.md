@@ -122,11 +122,7 @@
 
    *Wahidur R S, Kim S, Choi H, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10887211.pdf>)]
 
-2. **Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**.
-
-   *Hu Y, Gan L, Xiao W, et al*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2501.06521>)]
-
-3. **NYAYAANUMANA and INLEGALLLAMA: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**.
+2. **NYAYAANUMANA and INLEGALLLAMA: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**.
 
    *Nigam S K, Patnaik B D, Mishra S, et al*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2412.08385>)]
 
@@ -243,6 +239,10 @@
 3. **Enhancing legal assistance with AI: a comprehensive approach to intent classification and domain specific model tuning**.
 
    *Bhatnagar M, Huchhanavar S*. Artif. Intell. Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-025-09441-1.pdf>)]
+
+4. **Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**.
+
+   *Hu Y, Gan L, Xiao W, et al*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2501.06521>)]
 
 ## Legal Classification
 
