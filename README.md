@@ -242,6 +242,10 @@
 16. **Agenda-Driven Question Generation: A Case Study in the Courtroom Domain**.
 
    *Yi Fung, Anoop Kumar, Aram Galstyan, Heng Ji, Prem Natarajan.  NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.lrec-main.49.pdf>)]
+   
+17. **CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**.
+
+   *Wiratunga N, Abeyratne R, Jayawardena L, et al*. ICCBR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2404.04302>)]
 
 #### &nbsp;&nbsp;&nbsp;2025 ####
 1. **Attention: Your Conversational Data is What They Need**.
