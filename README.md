@@ -91,11 +91,7 @@
 
    *Jang M, Stikkel G*. NAACL 2024 [C]. [[pdf](<https://aclanthology.org/2024.naacl-industry.14.pdf>)]
 
-19. **Using LLMs to Discover Legal Factors**.
-
-   *Gray M, Savelka J, Oliver W, et al*. JURIX 2024 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241234>)]
-
-20. **Bringing legal knowledge to the public by constructing a legal question bank using large-scale pre-trained language model**.
+19. **Bringing legal knowledge to the public by constructing a legal question bank using large-scale pre-trained language model**.
 
    *Yuan M, Kao B, Wu T H, et al*. Artif. Intell. Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-023-09367-6.pdf>)]
 
