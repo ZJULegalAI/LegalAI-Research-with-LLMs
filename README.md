@@ -110,10 +110,6 @@
 
    *Wahidur R S, Kim S, Choi H, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10887211.pdf>)]
 
-2. **NYAYAANUMANA and INLEGALLLAMA: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**.
-
-   *Nigam S K, Patnaik B D, Mishra S, et al*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2412.08385>)]
-
 
 ## Legal Generation
 
