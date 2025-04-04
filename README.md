@@ -107,27 +107,23 @@
 
    *Spangher A, Xue Z, Wu T L, et al*. NAACL 2024 [C]. [[pdf](<https://aclanthology.org/2024.naacl-long.472.pdf>)]
 
-20. **Enabling Discriminative Reasoning in LLMs for Legal Judgment Prediction**.
-
-   *Deng C, Mao K, Zhang Y, et al*. EMNLP (Findings) 2024 [C]. [[pdf](<https://arxiv.org/pdf/2407.01964>)]
-
-21. **AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation**.
+20. **AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation**.
 
    *He Z, Cao P, Wang C, et al*. EMNLP (Findings) 2024 [C]. [[pdf](<https://arxiv.org/pdf/2403.02959>)]
 
-22. **Leveraging Natural Language Processing and Large Language Models for Assisting Due Diligence in the Legal Domain**.
+21. **Leveraging Natural Language Processing and Large Language Models for Assisting Due Diligence in the Legal Domain**.
 
    *Jang M, Stikkel G*. NAACL 2024 [C]. [[pdf](<https://aclanthology.org/2024.naacl-industry.14.pdf>)]
 
-23. **Using LLMs to Discover Legal Factors**.
+22. **Using LLMs to Discover Legal Factors**.
 
    *Gray M, Savelka J, Oliver W, et al*. JURIX 2024 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241234>)]
 
-24. **Fighting the Knowledge Representation Bottleneck with Large Language Models**.
+23. **Fighting the Knowledge Representation Bottleneck with Large Language Models**.
 
    *Billi M, Pisano G, Sanchi M*. JURIX 2024 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241230>)]
 
-25. **Bringing legal knowledge to the public by constructing a legal question bank using large-scale pre-trained language model**.
+24. **Bringing legal knowledge to the public by constructing a legal question bank using large-scale pre-trained language model**.
 
    *Yuan M, Kao B, Wu T H, et al*. Artif. Intell. Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-023-09367-6.pdf>)]
 
