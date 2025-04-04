@@ -353,6 +353,9 @@
 
    *Huber-Fliflet N, Zhang J, Gronvall P*. IEEE Big Data 2024 [C]. [[pdf](<https://ieeexplore.ieee.org/iel8/10824975/10824942/10826061.pdf?casa_token=s7AlN8_ORVYAAAAA:XzADl2pWde8Um6Lso5GmAo5maoZsbh42zMRkQ4tgq_CeX_-INAnV3hTalrm7LTBtxV8E6gWaIHcQXA>)]
 
+14. **AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation**.
+
+   *He Z, Cao P, Wang C, et al*. EMNLP (Findings) 2024 [C]. [[pdf](<https://arxiv.org/pdf/2403.02959>)]
    
 #### &nbsp;&nbsp;&nbsp;2025 ####
 
