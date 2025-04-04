@@ -110,27 +110,23 @@
 
    *Kwok-Yan Lam, Victor C. W. Cheng, Zee Kin Yeong*. Artif. JURIX 2023 [C]. [[pdf](<https://ceur-ws.org/Vol-3423/paper7.pdf>)]
 
-2. **Harnessing GPT-3.5-turbo for Rhetorical Role Prediction in Legal Cases**.
-
-   *Kwok-Yan Lam, Victor C. W. Cheng, Zee Kin Yeong*. Artif. EMNLP 2023 [C]. [[pdf](<https://arxiv.org/pdf/2310.17413>)]
-
-3. **ChatGPT as an Artificial Lawyer?**.
+2. **ChatGPT as an Artificial Lawyer?**.
 
    *Jinzhe Tan, Hannes Westermann, Karim Benyekhlef*. ICAIL 2023 [C]. [[pdf](<https://ceur-ws.org/Vol-3435/short2.pdf>)]
 
-4. **LLMs–the Good, the Bad or the Indispensable?: A Use Case on Legal Statute Prediction and Legal Judgment Prediction on Indian Court Cases**.
+3. **LLMs–the Good, the Bad or the Indispensable?: A Use Case on Legal Statute Prediction and Legal Judgment Prediction on Indian Court Cases**.
 
    *Shaurya Vats, Atharva Zope, Somsubhra De, Anurag Sharma, Upal Bhattacharya, Shubham Kumar Nigam, Shouvik Guha, Koustav Rudra, Kripabandhu Ghosh*. EMNLP (Findings) 2023 [C]. [[pdf](<https://aclanthology.org/2023.findings-emnlp.831.pdf>)]
 
-5. **Adapting Abstractive Summarization to Court Examinations in a Zero-Shot Setting: A Short Technical Paper**.
+4. **Adapting Abstractive Summarization to Court Examinations in a Zero-Shot Setting: A Short Technical Paper**.
 
    *Maya Epps, Lucille Njoo, Chéla Willey, Andrew Forney*. ICAIL 2023 [C]. [[pdf](<https://ceur-ws.org/Vol-3435/short3.pdf>)]
 
-6. **Event Extraction and Semantic Representation from Spanish Workers’ Statute Using Large Language Models**.
+5. **Event Extraction and Semantic Representation from Spanish Workers’ Statute Using Large Language Models**.
 
    *Argüelles Terrón G, Martín Chozas P, Rodríguez Doncel V*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230983>)]
    
-7. **From text to structure: Using large language models to support the development of legal expert systems**.
+6. **From text to structure: Using large language models to support the development of legal expert systems**.
 
    *Janatian S, Westermann H, Tan J, et al*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230962>)]
 
