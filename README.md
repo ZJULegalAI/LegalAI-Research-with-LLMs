@@ -12,11 +12,7 @@
 
 #### &nbsp;&nbsp;&nbsp;2023 ####
 
-1. **Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies**.
-
-   *Drápal J, Westermann H, Savelka J*. JURIX 2023 [C]. [[pdf](<https://arxiv.org/pdf/2310.18729>)]
-
-2. **A hierarchical neural framework for classification and its explanation in large unstructured legal documents**.
+1. **A hierarchical neural framework for classification and its explanation in large unstructured legal documents**.
 
    *Prasad N, Boughanem M, Dkaki T*. CIKM 2023 [C]. [[pdf](<https://arxiv.org/pdf/2309.10563>)]
 
