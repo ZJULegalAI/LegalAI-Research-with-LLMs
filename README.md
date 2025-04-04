@@ -223,6 +223,10 @@
 
    *Jiang Y, Guan Z, Zhao J, et al*. EMNLP (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-emnlp.856.pdf>)]
 
+20. **LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration**.
+
+   *Wang X, Zhang X, Hoo V, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10750819.pdf>)]
+
 #### &nbsp;&nbsp;&nbsp;2025 ####
 1. **Attention: Your Conversational Data is What They Need**.
 
