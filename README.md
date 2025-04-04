@@ -20,10 +20,6 @@
 
    *Prasad N, Boughanem M, Dkaki T*. CIKM 2023 [C]. [[pdf](<https://arxiv.org/pdf/2309.10563>)]
 
-3. **From text to structure: Using large language models to support the development of legal expert systems**.
-
-   *Janatian S, Westermann H, Tan J, et al*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230962>)]
-
 
 #### &nbsp;&nbsp;&nbsp;2024 ####
 
@@ -153,6 +149,10 @@
 6. **Event Extraction and Semantic Representation from Spanish Workers’ Statute Using Large Language Models**.
 
    *Argüelles Terrón G, Martín Chozas P, Rodríguez Doncel V*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230983>)]
+   
+7. **From text to structure: Using large language models to support the development of legal expert systems**.
+
+   *Janatian S, Westermann H, Tan J, et al*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230962>)]
 
 #### &nbsp;&nbsp;&nbsp;2024 ####
 1. **Attention: Your Conversational Data is What They Need**.
