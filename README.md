@@ -180,31 +180,27 @@
 
    *Pierre Colombo, Telmo Pires, Malik Boudiaf, Rui Melo, Dominic Culver, Sofia Morgado, Etienne Malaboeuf, Gabriel Hautreux, Johanne Charpentier, Michael Desa*. ICML 2024 [C]. [[pdf](<https://arxiv.org/pdf/2407.19584>)]
 
-13. **A case study for automated attribute extraction from legal documents using large language models**.
-
-   *Subinay Adhikary, Procheta Sen, Dwaipayan Roy & Kripabandhu Ghosh*. Artificial Intelligence and Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-024-09425-7.pdf>)]
-
-14. **SELF-EXPERTISE: Knowledge-based Instruction Dataset Augmentation for a Legal Expert Language Model**.
+12. **SELF-EXPERTISE: Knowledge-based Instruction Dataset Augmentation for a Legal Expert Language Model**.
 
    *Minju Kim, Haein Jung, Myoung-wan Koo.  NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-naacl.69.pdf>)]
 
-15. **Agenda-Driven Question Generation: A Case Study in the Courtroom Domain**.
+13. **Agenda-Driven Question Generation: A Case Study in the Courtroom Domain**.
 
    *Yi Fung, Anoop Kumar, Aram Galstyan, Heng Ji, Prem Natarajan.  NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.lrec-main.49.pdf>)]
    
-16. **CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**.
+14. **CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**.
 
    *Wiratunga N, Abeyratne R, Jayawardena L, et al*. ICCBR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2404.04302>)]
 
-17. **Fighting the Knowledge Representation Bottleneck with Large Language Models**.
+15. **Fighting the Knowledge Representation Bottleneck with Large Language Models**.
 
    *Billi M, Pisano G, Sanchi M*. JURIX 2024 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241230>)]
 
-18. **H-LegalKI: A Hierarchical Legal Knowledge Integration Framework for Legal Community Question Answering**.
+16. **H-LegalKI: A Hierarchical Legal Knowledge Integration Framework for Legal Community Question Answering**.
 
    *Jiang Y, Guan Z, Zhao J, et al*. EMNLP (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-emnlp.856.pdf>)]
 
-19. **LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration**.
+17. **LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration**.
 
    *Wang X, Zhang X, Hoo V, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10750819.pdf>)]
 
