@@ -326,6 +326,9 @@
 
    *Ronja Stern, Vishvaksenan Rasiah, Veton Matoshi, Srinanda Brügger Bose, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, Joel Niklaus*. ACL 2024 [C]. [[pdf](<https://arxiv.org/pdf/2306.09237>)]
 
+16. **0x.Yuan at SemEval-2024 Task 5: Enhancing Legal Argument Reasoning with Structured Prompts**.
+
+   *Yu-an Lu, Hung-yu Kao*. SemEval 2024 [C]. [[pdf](<https://aclanthology.org/2024.semeval-1.60.pdf>)]
    
 #### &nbsp;&nbsp;&nbsp;2025 ####
 
