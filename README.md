@@ -152,7 +152,7 @@
 
    *Antoine Louis, Gijs van Dijck, Gerasimos Spanakis*. NAACL 2024 [C]. [[pdf](<https://arxiv.org/pdf/2309.17050>)]
 
-6. **Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models**.
+6. **Unleashing the Power of LLMs in Court View Generation by Stimulating Internal Knowledge and Incorporating External Knowledge**.
 
    *Yifei Liu, Yiquan Wu, Ang Li, Yating Zhang, Changlong Sun, Weiming Lu, Fei Wu, Kun Kuang*. NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-naacl.177.pdf>)]
 
