@@ -172,15 +172,11 @@
 
    *Zhihan Guo, Yifei Zhang, Zhuo Zhang, Zenglin Xu, Irwin King*. Artif. NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-naacl.98.pdf>)]
 
-10. **Rethinking the Development of Large Language Models from the Causal Perspective: A Legal Text Prediction Case Study**.
-
-   *Haotian Chen, Lingwei Zhang, Yiran Liu, Yang Yu*. AAAI 2024 [C]. [[pdf](<https://ojs.aaai.org/index.php/AAAI/article/view/30086/31914>)]
-
-11. **Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**.
+10. **Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**.
 
    *Matthew Dahl, Varun Magesh, Mirac Suzgun, Daniel E. Ho*. NeurIPS 2024 [C]. [[pdf](<https://arxiv.org/pdf/2401.01301>)]
 
-12. **SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain**.
+11. **SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain**.
 
    *Pierre Colombo, Telmo Pires, Malik Boudiaf, Rui Melo, Dominic Culver, Sofia Morgado, Etienne Malaboeuf, Gabriel Hautreux, Johanne Charpentier, Michael Desa*. ICML 2024 [C]. [[pdf](<https://arxiv.org/pdf/2407.19584>)]
 
