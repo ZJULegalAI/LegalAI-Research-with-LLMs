@@ -197,15 +197,12 @@
    *Wang X, Zhang X, Hoo V, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10750819.pdf>)]
 
 #### &nbsp;&nbsp;&nbsp;2025 ####
-1. **Attention: Your Conversational Data is What They Need**.
 
-   *Merane, Jakob*. Artif. JURIX 2024 [C]. [[pdf](<https://ceur-ws.org/Vol-3423/paper7.pdf>)]
-
-2. **Enhancing legal assistance with AI: a comprehensive approach to intent classification and domain specific model tuning**.
+1. **Enhancing legal assistance with AI: a comprehensive approach to intent classification and domain specific model tuning**.
 
    *Bhatnagar M, Huchhanavar S*. Artif. Intell. Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-025-09441-1.pdf>)]
 
-3. **Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**.
+2. **Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**.
 
    *Hu Y, Gan L, Xiao W, et al*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2501.06521>)]
 
