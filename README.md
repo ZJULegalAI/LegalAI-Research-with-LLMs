@@ -201,15 +201,11 @@
 
    *Merane, Jakob*. Artif. JURIX 2024 [C]. [[pdf](<https://ceur-ws.org/Vol-3423/paper7.pdf>)]
 
-2. **Applicability of Large Language Models and Generative Models for Legal Case Judgement Summarization**.
-
-   *Aniket Deroy,  Kripabandhu Ghosh, Saptarshi Ghosh*. Artificial Intelligence and Law [J]. [[pdf](<https://link.springer.com/article/10.1007/s10506-024-09411-z>)]
-
-3. **Enhancing legal assistance with AI: a comprehensive approach to intent classification and domain specific model tuning**.
+2. **Enhancing legal assistance with AI: a comprehensive approach to intent classification and domain specific model tuning**.
 
    *Bhatnagar M, Huchhanavar S*. Artif. Intell. Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-025-09441-1.pdf>)]
 
-4. **Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**.
+3. **Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**.
 
    *Hu Y, Gan L, Xiao W, et al*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2501.06521>)]
 
