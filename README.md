@@ -237,109 +237,67 @@
    *Shaurya Vats, Atharva Zope, Somsubhra De, Anurag Sharma, Upal Bhattacharya, Shubham Kumar Nigam, Shouvik Guha, Koustav Rudra, Kripabandhu Ghosh*. EMNLP (Findings) 2023 [C]. [[pdf](<https://aclanthology.org/2023.findings-emnlp.831.pdf>)]
 
 ### &nbsp;&nbsp;&nbsp;Evaluation ###
+
 #### &nbsp;&nbsp;&nbsp;Dimensions  ####
-#### &nbsp;&nbsp;&nbsp;Methods ####
 
+1. **GOLDCOIN: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory**.
 
-#### &nbsp;&nbsp;&nbsp;2023 ####
+   *Fan W, Li H, Deng Z*. IEEE Access [J]. [[pdf](<https://aclanthology.org/2024.emnlp-main.195.pdf>)]
 
+2. **Syllogistic Reasoning for Legal Judgment Analysis**.
 
+   *Deng W, Pei J, Kong K, et al*. EMNLP 2023 [C]. [[pdf](<https://aclanthology.org/2023.emnlp-main.864.pdf>)]
 
-
-
-
-4. **A Comparative Study of Prompting Strategies for Legal Text Classification**.
-
-   *Parizi A H, Liu Y, Nokku P, et al*. Proc. of the NLLP Workshop 2023 [C]. [[pdf](<https://aclanthology.org/2023.nllp-1.25.pdf>)]
-
-5. **A Comprehensive Evaluation of Large Language Models on Legal Judgment Prediction**.
-
-   *Shui R, Cao Y, Wang X, et al*. EMNLP (Findings) 2023 [C]. [[pdf](<https://arxiv.org/pdf/2310.11761>)]
-
-6. **Empirical Study of LLM Fine-Tuning for Text Classification in Legal Document Review**.
-
-   *Wei F, Keeling R, Huber-Fliflet N, et al*. IEEE Big Data 2023 [C]. [[pdf](<https://ieeexplore.ieee.org/iel7/10385234/10386078/10386911.pdf?casa_token=o4VkMoNwFcsAAAAA:pC6y22KQN0tpCnUxHXel8AYotXbB1c1VGEHeRO_hagZpe5KKhlu41iJovBTNUxcUQFwBRjWzrSrv>)]
-
-7. **The unreasonable effectiveness of large language models in zero-shot semantic annotation of legal texts**.
+3. **The unreasonable effectiveness of large language models in zero-shot semantic annotation of legal texts**.
 
    *Savelka J, Ashley K D*. Frontiers in Artificial Intelligence [J]. [[pdf](<https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1279794/pdf>)]
 
+4. **Courtroom-LLM: A Legal-Inspired Multi-LLM Framework for Resolving Ambiguous Text Classifications**.
 
+   *Jung S, Jung J*. COLING 2025 [C]. [[pdf](<https://aclanthology.org/2025.coling-main.493.pdf>)]
 
+5. **Fine-tuning GPT-3 for legal rule classification**.
 
+   *Liga D, Robaldo L*. Computer Law & Security Review [J]. [[pdf](<https://www.sciencedirect.com/science/article/pii/S0267364923000742/pdfft?md5=f53d2a0a4355c818ac8112a1101c35e9&pid=1-s2.0-S0267364923000742-main.pdf>)]
 
+6. **NYAYAANUMANA and INLEGALLLAMA: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**.
 
-11. **Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration**.
+   *Nigam S K, Patnaik B D, Mishra S*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2412.08385>)]
 
-   *Wu Y, Zhou S, Liu Y, et al*. EMNLP 2023 [C]. [[pdf](<https://arxiv.org/pdf/2310.09241>)]
+7. **Experimental Study of In-Context Learning for Text Classification and Its Application to Legal Document Review in Construction Delay Disputes**.
 
+   *Huber-Fliflet N, Zhang J, Gronvall P*. IEEE Big Data 2024 [C]. [[pdf](<https://ieeexplore.ieee.org/iel8/10824975/10824942/10826061.pdf?casa_token=s7AlN8_ORVYAAAAA:XzADl2pWde8Um6Lso5GmAo5maoZsbh42zMRkQ4tgq_CeX_-INAnV3hTalrm7LTBtxV8E6gWaIHcQXA>)]
 
-#### &nbsp;&nbsp;&nbsp;2024 ####
-1. **Using LLMs to Discover Legal Factors**.
+8. **Using LLMs to Discover Legal Factors**.
 
    *Gray M, Savelka J, Oliver W, et al*. JURIX 2024 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241234>)]
 
-2. **Explicitly Integrating Judgment Prediction withvLegal Document Retrieval: A Law-Guided Generative Approach**.
+#### &nbsp;&nbsp;&nbsp;Methods ####
 
-   *Qin W, Cao Z, Yu W, et al*. SIGIR 2024 [C]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3626772.3657717?casa_token=7CAbBKNisaQAAAAA:hfL7WXrkK5AvX1Y7m8NByE_VAOZgeLY-gX6DsZScDqRZF0vSBfkyT07OhF9s3uLsbaGk5tCRNa8Z>)]
+1. **GOLDCOIN: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory**.
 
-
-
-
-
-
-   
-6. **A Hierarchical Neural Framework for Classification and its Explanation in Large Unstructured Legal Documents**.
-
-   *Prasad N, Boughanem M, Dkaki T*. arXiv [EB/OL]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3709026.3709068?casa_token=Rl1sIKwQF58AAAAA:TxZbQp4bKQnNpxzLEDpnKztm6EiOwVqtbDtwEBIagqX2ttU0vqp8W8j_36x16GAbz6lqnEXw5U_wjg>)]
-
-
-
-8. **Enabling Discriminative Reasoning in LLMs for Legal Judgment Prediction**.
-
-   *Deng C, Mao K, Zhang Y, et al*. EMNLP (Findings) 2024 [C]. [[pdf](<https://arxiv.org/pdf/2407.01964>)]
-
-9. **Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Document**.
-
-   *Prasad N, Boughanem M, Dkaki T*. ECIR (2) 2024 [C]. [[pdf](<https://arxiv.org/pdf/2403.06872>)]
-
-
-
-
-
-
-
-14. **AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation**.
-
-   *He Z, Cao P, Wang C, et al*. EMNLP (Findings) 2024 [C]. [[pdf](<https://arxiv.org/pdf/2403.02959>)]
-
-15. **One Law, Many Languages: Benchmarking Multilingual Legal Reasoning for Judicial Support**.
-
-   *Ronja Stern, Vishvaksenan Rasiah, Veton Matoshi, Srinanda Brügger Bose, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho, Joel Niklaus*. ACL 2024 [C]. [[pdf](<https://arxiv.org/pdf/2306.09237>)]
-
-16. **0x.Yuan at SemEval-2024 Task 5: Enhancing Legal Argument Reasoning with Structured Prompts**.
-
-   *Yu-an Lu, Hung-yu Kao*. SemEval 2024 [C]. [[pdf](<https://aclanthology.org/2024.semeval-1.60.pdf>)]
-   
-#### &nbsp;&nbsp;&nbsp;2025 ####
-
-1. **An LLMs‐based neuro‐symbolic legal judgment prediction framework for civil cases**.
-
-   *Wei B, Yu Y, Gan L, et al*. Artificial Intelligence and Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-025-09433-1.pdf>)]
-
-2. **Predicting Violated Law Sections Using Document Classification Techniques**.
-
-   *Satyapanich T, Wattanakul N, Lehiang T*. ICMTAI 2025 [C]. [[pdf](<https://link.springer.com/content/pdf/10.1007/978-981-96-0695-5.pdf>)]
-
-
-
-
-
-
+   *Fan W, Li H, Deng Z*. IEEE Access [J]. [[pdf](<https://aclanthology.org/2024.emnlp-main.195.pdf>)]
 
 ## Legal Retrieval
 
 ### &nbsp;&nbsp;&nbsp;Data ###
+
+1. **CAPTAIN at COLIEE 2024: Large Language Model for Legal Text Retrieval and Entailment**.
+
+   *Nguyen P, Nguyen C, Nguyen H, et al*. JSAI-isAI 2024 [C]. [[pdf](<https://link.springer.com/content/pdf/10.1007/978-981-97-3076-6.pdf>)]
+
+2. **Explicitly Integrating Judgment Prediction with Legal Document Retrieval A Law-Guided Generative Approach**.
+
+   *Qin W, Cao Z, Yu W, et al*. SIGIR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2312.09591>)]
+
+3. **Exploiting LLMs' Reasoning Capability to Infer Implicit Concepts in Legal Information Retrieval**.
+
+   *Nguyen H L, Nguyen T M, Nguyen D M, et al*. NeLaMKRR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2410.12154>)]
+
+4. **LawLLM: Law Large Language Model for the US Legal System**.
+
+   *Shu D, Zhao H, Liu X, et al*. CIKM 2024 [C]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3627673.3680020>)]
+
 #### &nbsp;&nbsp;&nbsp;Samples ####
 #### &nbsp;&nbsp;&nbsp;Labels ####
 
@@ -362,21 +320,15 @@
 
 #### &nbsp;&nbsp;&nbsp;2024 ####
 
-1. **Explicitly Integrating Judgment Prediction with Legal Document Retrieval A Law-Guided Generative Approach**.
 
-   *Qin W, Cao Z, Yu W, et al*. SIGIR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2312.09591>)]
 
 2. **Leveraging Large Language Models for Relevance Judgments in Legal Case Retrieval**.
 
    *Ma S, Chen C, Chu Q, et al*. arXiv [EB/OL]. [[pdf](<https://arxiv.org/pdf/2403.18405?>)]
 
-3. **Exploiting LLMs' Reasoning Capability to Infer Implicit Concepts in Legal Information Retrieval**.
 
-   *Nguyen H L, Nguyen T M, Nguyen D M, et al*. NeLaMKRR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2410.12154>)]
 
-4. **LawLLM: Law Large Language Model for the US Legal System**.
 
-   *Shu D, Zhao H, Liu X, et al*. CIKM 2024 [C]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3627673.3680020>)]
 
 5. **CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**.
 
@@ -404,9 +356,7 @@
 
    *Steging C, Leeuwen L V*. JURISIN 2024 [C]. [[pdf](<https://www.steging.nl/wp-content/uploads/2024/09/JURISIN2024.pdf>)]
 
-12. **CAPTAIN at COLIEE 2024: Large Language Model for Legal Text Retrieval and Entailment**.
 
-   *Nguyen P, Nguyen C, Nguyen H, et al*. JSAI-isAI 2024 [C]. [[pdf](<https://link.springer.com/content/pdf/10.1007/978-981-97-3076-6.pdf>)]
 
 13. **Transforming legal text interactions: leveraging natural language processing and large language models for legal support in Palestinian cooperatives**.
 
