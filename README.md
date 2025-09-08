@@ -10,6 +10,8 @@
 
 ## Legal Classification
 ### &nbsp;&nbsp;&nbsp;Data ###
+#### &nbsp;&nbsp;&nbsp;Samples ####
+#### &nbsp;&nbsp;&nbsp;Labels ####
 
 #### &nbsp;&nbsp;&nbsp;2023 ####
 1. **Syllogistic Reasoning for Legal Judgment Analysis**.
