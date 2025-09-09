@@ -127,57 +127,57 @@
 
    *Liga D, Robaldo L*. Computer Law & Security Review [J]. [[pdf](<https://www.sciencedirect.com/science/article/pii/S0267364923000742/pdfft?md5=f53d2a0a4355c818ac8112a1101c35e9&pid=1-s2.0-S0267364923000742-main.pdf>)][[dataset](<https://github.com/dapreco/daprecokb/blob/master/gdpr/rioKB_GDPR.xml>)]
 
-6. **LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration**.
+5. **LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration**.
 
    *Prasad N, Boughanem M, Dkaki T, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10750819.pdf>)][[dataset1](<https://cail.oss-cn-qingdao.aliyuncs.com/CAIL2018_ALL_DATA.zip>)][[dataset2](<https://archive.org/details/ECHR-ACL2019>)]
 
-8. **Rethinking the Development of Large Language Models from the Causal Perspective: A Legal Text Prediction Case Study**.
+6. **Rethinking the Development of Large Language Models from the Causal Perspective: A Legal Text Prediction Case Study**.
 
    *Chen H, Zhang L, Liu Y, et al*. AAAI 2024 [C]. [[pdf](<https://ojs.aaai.org/index.php/AAAI/article/download/30086/31914>)][[dataset1](<https://archive.org/details/ECHR-ACL2019>)][[dataset2](<https://huggingface.co/datasets/ecthr_cases>)][[dataset3](<https://drive.switch.ch/index.php/s/j9S0GRMAbGZKa1A>)]
 
-10. **DPFSI: A legal judgment prediction method based on deontic logic prompt and fusion of law article statistical information**.
+7. **DPFSI: A legal judgment prediction method based on deontic logic prompt and fusion of law article statistical information**.
 
    *Meng C, Todo Y, Tang C, et al*. Expert Systems with Applications [J]. [[pdf](<https://www.sciencedirect.com/science/article/pii/S0957417425003446/pdfft?casa_token=s-aXCUxzV4EAAAAA:JbP8fAmTWHcbOs7rQQpbGLqkIJemmk__QzcyyNQyetYhpoAMkmVI4gEyvehBciBK_UNCCCg9Ww&md5=833d695d44a83d97aca2fbeac295a91d&pid=1-s2.0-S0957417425003446-main.pdf>)][[dataset](<https://cail.oss-cn-qingdao.aliyuncs.com/CAIL2018_ALL_DATA.zip>)]
 
-11. **NYAYAANUMANA and INLEGALLLAMA: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**.
+8. **NYAYAANUMANA and INLEGALLLAMA: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**.
 
    *Nigam S K, Patnaik B D, Mishra S*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2412.08385>)][[dataset](<https://github.com/ShubhamKumarNigam/NyayaAnumana-and-INLegalLlama>)]
 
-11. **An LLMs‐based neuro‐symbolic legal judgment prediction framework for civil cases**.
+9. **An LLMs‐based neuro‐symbolic legal judgment prediction framework for civil cases**.
 
    *Wei B, Yu Y, Gan L, et al*. Artificial Intelligence and Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-025-09433-1.pdf>)][[dataset](<https://github.com/mly-nlp/LJP-MSJudge>)]
 
-11. **Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration**.
+10. **Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration**.
      
-    *Wu Y, Zhou S, Liu Y, et al*. EMNLP 2023 [C]. [[pdf](https://arxiv.org/pdf/2310.09241)][[dataset](<https://github.com/wuyiquan/PLJP>)]
+     *Wu Y, Zhou S, Liu Y, et al*. EMNLP 2023 [C]. [[pdf](https://arxiv.org/pdf/2310.09241)][[dataset](<https://github.com/wuyiquan/PLJP>)]
 
-12. **Courtroom-LLM: A Legal-Inspired Multi-LLM Framework for Resolving Ambiguous Text Classifications**.
+11. **Courtroom-LLM: A Legal-Inspired Multi-LLM Framework for Resolving Ambiguous Text Classifications**.
 
-    *Jung S, Jung J*. COLING 2025 [C]. [[pdf](<https://aclanthology.org/2025.coling-main.493.pdf>)]
+     *Jung S, Jung J*. COLING 2025 [C]. [[pdf](<https://aclanthology.org/2025.coling-main.493.pdf>)]
 
 12. **Harnessing GPT-3.5-turbo for Rhetorical Role Prediction in Legal Cases**.
 
-    *Belfathi A, Hernandez N, Monceaux L*. JURIX 2023 [C]. [[pdf](<https://arxiv.org/pdf/2310.17413>)][[dataset](<https://github.com/Legal-NLP-EkStep/rhetorical-role-baseline>)]
+     *Belfathi A, Hernandez N, Monceaux L*. JURIX 2023 [C]. [[pdf](<https://arxiv.org/pdf/2310.17413>)][[dataset](<https://github.com/Legal-NLP-EkStep/rhetorical-role-baseline>)]
 
 13. **Legal Syllogism Prompting: Teaching Large Language Models for Legal Judgment Predictions**.
 
-    *Jiang C, Yang X*. ICAIL 2023 [C]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3594536.3595170?casa_token=EyP_LqQK7kIAAAAA:loANkbImAXC8PDXafXgu0AsRqZkEY4BHx82eKq3aaVn1weHPtUSGIx5k0xGdugAAw4294k-kyRtW>)][[dataset](<https://cail.oss-cn-qingdao.aliyuncs.com/CAIL2018_ALL_DATA.zip>)]
+     *Jiang C, Yang X*. ICAIL 2023 [C]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3594536.3595170?casa_token=EyP_LqQK7kIAAAAA:loANkbImAXC8PDXafXgu0AsRqZkEY4BHx82eKq3aaVn1weHPtUSGIx5k0xGdugAAw4294k-kyRtW>)][[dataset](<https://cail.oss-cn-qingdao.aliyuncs.com/CAIL2018_ALL_DATA.zip>)]
 
 14. **LLMs – the Good, the Bad or the Indispensable?: A Use Case on Legal Statute Prediction and Legal Judgment Prediction on Indian Court Cases**.
 
-    *Vats S, Zope A, De S, et al*. EMNLP (Findings) 2023 [C]. [[pdf](<https://aclanthology.org/2023.findings-emnlp.831.pdf>)][[dataset](<https://github.com/somsubhra04/LLM_Legal_Prompt_Generation>)]
+     *Vats S, Zope A, De S, et al*. EMNLP (Findings) 2023 [C]. [[pdf](<https://aclanthology.org/2023.findings-emnlp.831.pdf>)][[dataset](<https://github.com/somsubhra04/LLM_Legal_Prompt_Generation>)]
 
-16. **Experimental Study of In-Context Learning for Text Classification and Its Application to Legal Document Review in Construction Delay Disputes**.
+15. **Experimental Study of In-Context Learning for Text Classification and Its Application to Legal Document Review in Construction Delay Disputes**.
 
-    *Huber-Fliflet N, Zhang J, Gronvall P*. IEEE Big Data 2024 [C]. [[pdf](<https://ieeexplore.ieee.org/iel8/10824975/10824942/10826061.pdf?casa_token=s7AlN8_ORVYAAAAA:XzADl2pWde8Um6Lso5GmAo5maoZsbh42zMRkQ4tgq_CeX_-INAnV3hTalrm7LTBtxV8E6gWaIHcQXA>)]
+     *Huber-Fliflet N, Zhang J, Gronvall P*. IEEE Big Data 2024 [C]. [[pdf](<https://ieeexplore.ieee.org/iel8/10824975/10824942/10826061.pdf?casa_token=s7AlN8_ORVYAAAAA:XzADl2pWde8Um6Lso5GmAo5maoZsbh42zMRkQ4tgq_CeX_-INAnV3hTalrm7LTBtxV8E6gWaIHcQXA>)]
 
-17. **Legal Judgment Prediction with LLM and Graph Contrastive Learning Networks**.
+16. **Legal Judgment Prediction with LLM and Graph Contrastive Learning Networks**.
 
-    *Xia Y, Luo X*. CSAI 2024 [C]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3709026.3709068?casa_token=Rl1sIKwQF58AAAAA:TxZbQp4bKQnNpxzLEDpnKztm6EiOwVqtbDtwEBIagqX2ttU0vqp8W8j_36x16GAbz6lqnEXw5U_wjg>)][[dataset1](<https:%20//huggingface.co/datasets/coastalcph/fairlex/viewer/ecthr>)][[dataset2](<https:%20//huggingface.co/datasets/AUEB-NLP/ecthr_cases>)]
+     *Xia Y, Luo X*. CSAI 2024 [C]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3709026.3709068?casa_token=Rl1sIKwQF58AAAAA:TxZbQp4bKQnNpxzLEDpnKztm6EiOwVqtbDtwEBIagqX2ttU0vqp8W8j_36x16GAbz6lqnEXw5U_wjg>)][[dataset1](<https:%20//huggingface.co/datasets/coastalcph/fairlex/viewer/ecthr>)][[dataset2](<https:%20//huggingface.co/datasets/AUEB-NLP/ecthr_cases>)]
 
-18. **Neural Data Augmentation for Legal Overruling Task: Small Deep Learning Models vs. Large Language Models**.
+17. **Neural Data Augmentation for Legal Overruling Task: Small Deep Learning Models vs. Large Language Models**.
 
-    *Sheik R, Siva Sundara K P, Nirmala S J*. Neural Processing Letters [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s11063-024-11574-4.pdf>)]
+     *Sheik R, Siva Sundara K P, Nirmala S J*. Neural Processing Letters [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s11063-024-11574-4.pdf>)]
 
 #### &nbsp;&nbsp;&nbsp;LLM-for-SM ####
 
