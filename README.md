@@ -1,5 +1,21 @@
 # Must-read papers on LegalAI with LLMs
 
+## Role-Based Schema of LLMs in LegalAI
+
+We adopt a **role-based schema** to categorize the applications of LLMs in LegalAI research. This schema is organized into three perspectives: `Data`, `Modeling`, and `Evaluation`, each involving specific `Objects` and corresponding `Roles`.
+
+| **Perspective** | **Objects**         | **Roles**                                                                 |
+|-----------------|---------------------|---------------------------------------------------------------------------|
+| Data            | Samples              | Data Augmentation, Data Reconstruction, Data Cleaning                     |
+|                 | Labels               | Label Generation, Label Correction, Label Reconstruction                  |
+| Modeling        | LLM Enhancement      | Fine-tuning, In-context Learning                                          |
+|                 | LLM-for-SM           | Data Sources, Supervision Signals, Evaluation Feedback                    |
+|                 | Frameworks           | Task Workflow Reshaping, Explainability                                   |
+| Evaluation      | Dimensions           | Expanded Evaluation Objectives                                            |
+|                 | Methods              | LLM Scoring, Human-LLM, Output Reconstruction                             |
+
+> This schema is from our paper: *"LegalAI Research in LLM Era: Data, Method and Evaluation"*.
+
 ## Surveys of LegalAI with LLMs
 
 #### &nbsp;&nbsp;&nbsp;2025 ####
