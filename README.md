@@ -315,27 +315,27 @@
 
    *Nguyen P, Nguyen C, Nguyen H, et al*. JSAI-isAI 2024 [C]. [[pdf](<https://link.springer.com/content/pdf/10.1007/978-981-97-3076-6.pdf>)][[dataset](<https://coliee.org/application>)]
 
-3. **Explicitly Integrating Judgment Prediction with Legal Document Retrieval A Law-Guided Generative Approach**.
+2. **Explicitly Integrating Judgment Prediction with Legal Document Retrieval A Law-Guided Generative Approach**.
 
    *Qin W, Cao Z, Yu W, et al*. SIGIR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2312.09591>)][[dataset1](<https://github.com/ruc-wjyu/OPT-Match>)][[dataset2](<https://github.com/THUIR/LeCaRDv2>)][[dataset3](<https://huggingface.co/datasets/maastrichtlawtech/bsard>)]
 
-5. **Exploiting LLMs' Reasoning Capability to Infer Implicit Concepts in Legal Information Retrieval**.
+3. **Exploiting LLMs' Reasoning Capability to Infer Implicit Concepts in Legal Information Retrieval**.
 
    *Nguyen H L, Nguyen T M, Nguyen D M, et al*. NeLaMKRR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2410.12154>)][[dataset](<https://coliee.org/application>)]
 
-6. **LawLLM: Law Large Language Model for the US Legal System**.
+4. **LawLLM: Law Large Language Model for the US Legal System**.
 
    *Shu D, Zhao H, Liu X, et al*. CIKM 2024 [C]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3627673.3680020>)][[dataset](<https://case.law>)]
 
-8. **Legal Query RAG**.
+5. **Legal Query RAG**.
 
    *Wahidur R S, Kim S, Choi H, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10887211.pdf>)][[dataset](<https://huggingface.co/datasets/ibunescu/qa_legal_dataset_train>)]
 
-9. **AIIR Lab at COLIEE 2025: Exploring Applications of Large Language Models for Legal Text Retrieval and Entailment**.
+6. **AIIR Lab at COLIEE 2025: Exploring Applications of Large Language Models for Legal Text Retrieval and Entailment**.
 
    *Wu D, Lawrence S, Mansouri B*. COLIEE 2025 Workshop [C]. [[pdf](<https://www.researchgate.net/profile/Behrooz-Mansouri/publication/393924641_AIIR_Lab_at_COLIEE_2025_Exploring_Applications_of_Large_Language_Models_for_Legal_Text_Retrieval_and_Entailment/links/689acfd1659b52652cdf3dd2/AIIR-Lab-at-COLIEE-2025-Exploring-Applications-of-Large-Language-Models-for-Legal-Text-Retrieval-and-Entailment.pdf>)][[dataset](<https://coliee.org/application>)]
 
-10. **Learning Interpretable Legal Case Retrieval via Knowledge-Guided Case Reformulation**.
+7. **Learning Interpretable Legal Case Retrieval via Knowledge-Guided Case Reformulation**.
 
    *Deng C, Mao K, Dou Z*. EMNLP 2024 [C]. [[pdf](<https://arxiv.org/pdf/2406.19760>)][[dataset1](<https://github.com/myx666/LeCaRD>)][[dataset2](<https://github.com/THUIR/LeCaRDv2>)]
 
@@ -349,7 +349,7 @@
 
    *Ma S, Chen C, Chu Q, et al*. arXiv [EB/OL]. [[pdf](<https://arxiv.org/pdf/2403.18405?>)][[dataset](<https://github.com/myx666/LeCaRD>)]
 
-4. **LeDQA: A Chinese Legal Case Document-based Question Answering Dataset**.
+3. **LeDQA: A Chinese Legal Case Document-based Question Answering Dataset**.
 
    *Liu B, Zhu Z, Ai Q, et al*. CIKM 2024 [C]. [[pdf](<https://dl.acm.org/doi/pdf/10.1145/3627673.3679154>)][[dataset](<https://github.com/BulouLiu/LeDQA>)]
 
@@ -369,37 +369,37 @@
 
    *Wahidur R S, Kim S, Choi H, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10887211.pdf>)][[dataset](<https://huggingface.co/datasets/ibunescu/qa_legal_dataset_train>)]
 
-5. **CAPTAIN at COLIEE 2025: Enhancing Legal Text Processing and Structural Analysis with Large Language Models**.
+4. **CAPTAIN at COLIEE 2025: Enhancing Legal Text Processing and Structural Analysis with Large Language Models**.
 
    *Nguyen D, Nguyen M-P , Chu Q-H, et al*. COLIEE 2025 Workshop [C]. [[pdf](<https://coliee.org/documents/Proceedings/2025-Proceedings.pdf>)][[dataset](<https://coliee.org/application>)]
 
-6. **Jnlp at COLIEE 2025: Hybrid large language model-based framework for legal information retrieval and entailment**.
+5. **Jnlp at COLIEE 2025: Hybrid large language model-based framework for legal information retrieval and entailment**.
 
    *Nguyen H, Nguyen H, Pham T, et al*. COLIEE 2025 Workshop [C]. [[pdf](<https://coliee.org/documents/Proceedings/2025-Proceedings.pdf>)][[dataset](<https://coliee.org/application>)]
 
-7. **Exploiting LLMs' Reasoning Capability to Infer Implicit Concepts in Legal Information Retrieval**.
+6. **Exploiting LLMs' Reasoning Capability to Infer Implicit Concepts in Legal Information Retrieval**.
 
    *Nguyen H-L, Nguyen T-M, Nguyen D-M, et al*. NeLaMKRR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2410.12154>)][[dataset](<https://coliee.org/application>)]
 
-8. **Learning Interpretable Legal Case Retrieval via Knowledge-Guided Case Reformulation**.
+7. **Learning Interpretable Legal Case Retrieval via Knowledge-Guided Case Reformulation**.
 
    *Deng C, Mao K, Dou Z*. EMNLP 2024 [C]. [[pdf](<https://arxiv.org/pdf/2406.19760>)][[dataset1](<https://github.com/myx666/LeCaRD>)][[dataset2](<https://github.com/THUIR/LeCaRDv2>)]
 
-10. **Leveraging Natural Language Processing and Large Language Models for Assisting Due Diligence in the Legal Domain**.
+8. **Leveraging Natural Language Processing and Large Language Models for Assisting Due Diligence in the Legal Domain**.
 
    *Jang M, Stikkel G*. NAACL 2024 [C]. [[pdf](<https://aclanthology.org/2024.naacl-industry.14.pdf>)][[dataset](<https://science.kirasystems.com/>)]
 
-11. **Pushing the Boundaries of Legal Information Processing with Integration of Large Language Models**.
+9. **Pushing the Boundaries of Legal Information Processing with Integration of Large Language Models**.
 
    *Nguyen C, Tran T, Le K, et al*. JSAI-isAI 2024 [C]. [[pdf](<https://link.springer.com/content/pdf/10.1007/978-981-97-3076-6.pdf>)][[dataset](<https://coliee.org/application>)]
 
-11. **Leveraging Large Language Models for Relevance Judgments in Legal Case Retrieval**.
+10. **Leveraging Large Language Models for Relevance Judgments in Legal Case Retrieval**.
 
-    *Ma S, Chen C, Chu Q, et al*. arXiv [EB/OL]. [[pdf](<https://arxiv.org/pdf/2403.18405?>)][[dataset](<https://github.com/myx666/LeCaRD>)]
+     *Ma S, Chen C, Chu Q, et al*. arXiv [EB/OL]. [[pdf](<https://arxiv.org/pdf/2403.18405?>)][[dataset](<https://github.com/myx666/LeCaRD>)]
 
-12. **NOWJ@COLIEE 2025: A Multi-stage Framework Integrating Embedding Models and Large Language Models for Legal Retrieval and Entailment**.
+11. **NOWJ@COLIEE 2025: A Multi-stage Framework Integrating Embedding Models and Large Language Models for Legal Retrieval and Entailment**.
 
-    *Nguyen H-T, Nguyen T-M, Le X-B, et al*. COLIEE 2025 Workshop [C]. [[pdf](<https://coliee.org/documents/Proceedings/2025-Proceedings.pdf>)][[dataset](<https://coliee.org/application>)]
+     *Nguyen H-T, Nguyen T-M, Le X-B, et al*. COLIEE 2025 Workshop [C]. [[pdf](<https://coliee.org/documents/Proceedings/2025-Proceedings.pdf>)][[dataset](<https://coliee.org/application>)]
 
 #### &nbsp;&nbsp;&nbsp;LLM-for-SM ####
 
