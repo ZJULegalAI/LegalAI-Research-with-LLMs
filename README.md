@@ -476,33 +476,33 @@
 
 1. **Unleashing the Power of LLMs in Court View Generation by Stimulating Internal Knowledge and Incorporating External Knowledge**.
 
-   *Liu Y, Wu Y, Li A, et al*. NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-naacl.177.pdf>)]
+   *Liu Y, Wu Y, Li A, et al*. NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-naacl.177.pdf>)][[dataset](<https://data.court.gov.cn/pages/laic2021.html>)]
 
-2. **Bringing legal knowledge to the public by constructing a legal question bank using large-scale pre-trained language model**.
+3. **Bringing legal knowledge to the public by constructing a legal question bank using large-scale pre-trained language model**.
 
    *Yuan M, Kao B, Wu T H, et al*. Artif. Intell. Law [J]. [[pdf](<https://link.springer.com/content/pdf/10.1007/s10506-023-09367-6.pdf>)]
+   
+5. **CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**.
 
-3. **CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**.
+   *Wiratunga N, Abeyratne R, Jayawardena L, et al*. ICCBR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2404.04302>)][[dataset](<https://huggingface.co/datasets/umarbutler/open-australian-legal-qa>)]
 
-   *Wiratunga N, Abeyratne R, Jayawardena L, et al*. ICCBR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2404.04302>)]
+6. **Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**.
 
-4. **Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**.
+   *Hu Y, Gan L, Xiao W, et al*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2501.06521>)][[dataset](<https://github.com/YinghaoHu/LegalHalBench>)]
 
-   *Hu Y, Gan L, Xiao W, et al*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2501.06521>)]
-
-5. **Legal Query RAG**.
+7. **Legal Query RAG**.
 
    *Wahidur R S, Kim S, Choi H, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/iel8/6287639/6514899/10887211.pdf>)][[dataset](<https://huggingface.co/datasets/ibunescu/qa_legal_dataset_train>)]
 
-6. **Event Extraction and Semantic Representation from Spanish Workers’ Statute Using Large Language Models**.
+8. **Event Extraction and Semantic Representation from Spanish Workers’ Statute Using Large Language Models**.
 
-   *Argüelles Terrón G, Martín Chozas P, Rodríguez Doncel V*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230983>)]
+   *Argüelles Terrón G, Martín Chozas P, Rodríguez Doncel V*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230983>)][[dataset](< https://zenodo.org/records/8143596>)]
 
-7. **Fighting the Knowledge Representation Bottleneck with Large Language Models**.
+10. **Fighting the Knowledge Representation Bottleneck with Large Language Models**.
 
    *Billi M, Pisano G, Sanchi M*. JURIX 2024 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241230>)]
 
-8. **From text to structure: Using large language models to support the development of legal expert systems**.
+11. **From text to structure: Using large language models to support the development of legal expert systems**.
 
    *Janatian S, Westermann H, Tan J, et al*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230962>)]
 
@@ -514,7 +514,7 @@
 
 2. **Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models**.
 
-   *Louis A, van Dijck G, Spanakis G*. NAACL 2024 [C]. [[pdf](<https://arxiv.org/pdf/2309.17050>)]
+   *Louis A, van Dijck G, Spanakis G*. NAACL 2024 [C]. [[pdf](<https://arxiv.org/pdf/2309.17050>)][[dataset](<https://github.com/maastrichtlawtech/lleqa>)]
 
 3. **Enhancing legal assistance with AI: a comprehensive approach to intent classification and domain specific model tuning**.
 
@@ -526,7 +526,7 @@
 
 1. **Divide and Conquer: Legal Concept-guided Criminal Court View Generation**.
 
-   *Xu Q, Wei X, Yu H, Liu Q, Fei H*. EMNLP (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-emnlp.194.pdf>)]
+   *Xu Q, Wei X, Yu H, Liu Q, Fei H*. EMNLP (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-emnlp.194.pdf>)][[dataset](<https://github.com/xuqi220/LeGen>)]
 
 2. **Agenda-Driven Question Generation: A Case Study in the Courtroom Domain**.
 
@@ -534,7 +534,7 @@
 
 3. **Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models**.
 
-   *Louis A, van Dijck G, Spanakis G*. NAACL 2024 [C]. [[pdf](<https://arxiv.org/pdf/2309.17050>)]
+   *Louis A, van Dijck G, Spanakis G*. NAACL 2024 [C]. [[pdf](<https://arxiv.org/pdf/2309.17050>)][[dataset](<https://github.com/maastrichtlawtech/lleqa>)]
 
 4. **Enhancing legal assistance with AI: a comprehensive approach to intent classification and domain specific model tuning**.
 
@@ -550,7 +550,7 @@
 
 7. **Unleashing the Power of LLMs in Court View Generation by Stimulating Internal Knowledge and Incorporating External Knowledge**.
 
-   *Liu Y, Wu Y, Li A, et al*. NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-naacl.177.pdf>)]
+   *Liu Y, Wu Y, Li A, et al*. NAACL (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-naacl.177.pdf>)][[dataset](<https://data.court.gov.cn/pages/laic2021.html>)]
 
 8. **AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation**.
 
@@ -562,7 +562,7 @@
 
 10. **Event Extraction and Semantic Representation from Spanish Workers’ Statute Using Large Language Models**.
 
-    *Argüelles Terrón G, Martín Chozas P, Rodríguez Doncel V*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230983>)]
+    *Argüelles Terrón G, Martín Chozas P, Rodríguez Doncel V*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230983>)][[dataset](< https://zenodo.org/records/8143596>)]
 
 11. **Fighting the Knowledge Representation Bottleneck with Large Language Models**.
 
@@ -574,13 +574,13 @@
 
 13. **CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**.
 
-    *Wiratunga N, Abeyratne R, Jayawardena L, et al*. ICCBR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2404.04302>)]
+    *Wiratunga N, Abeyratne R, Jayawardena L, et al*. ICCBR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2404.04302>)][[dataset](<https://huggingface.co/datasets/umarbutler/open-australian-legal-qa>)]
 
 #### &nbsp;&nbsp;&nbsp;Frameworks ####
 
 1. **Divide and Conquer: Legal Concept-guided Criminal Court View Generation**.
 
-   *Xu Q, Wei X, Yu H, Liu Q, Fei H*. EMNLP (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-emnlp.194.pdf>)]
+   *Xu Q, Wei X, Yu H, Liu Q, Fei H*. EMNLP (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-emnlp.194.pdf>)][[dataset](<https://github.com/xuqi220/LeGen>)]
 
 2. **AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation**.
 
@@ -600,7 +600,7 @@
 
 6. **Event Extraction and Semantic Representation from Spanish Workers’ Statute Using Large Language Models**.
 
-   *Argüelles Terrón G, Martín Chozas P, Rodríguez Doncel V*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230983>)]
+   *Argüelles Terrón G, Martín Chozas P, Rodríguez Doncel V*. JURIX 2023 [C]. [[pdf](<https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230983>)][[dataset](< https://zenodo.org/records/8143596>)]
 
 ### &nbsp;&nbsp;&nbsp;Evaluation ###
 
@@ -622,7 +622,7 @@
 
 2. **Divide and Conquer: Legal Concept-guided Criminal Court View Generation**.
 
-   *Xu Q, Wei X, Yu H, Liu Q, Fei H*. EMNLP (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-emnlp.194.pdf>)]
+   *Xu Q, Wei X, Yu H, Liu Q, Fei H*. EMNLP (Findings) 2024 [C]. [[pdf](<https://aclanthology.org/2024.findings-emnlp.194.pdf>)][[dataset](<https://github.com/xuqi220/LeGen>)]
 
 3. **AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation**.
 
@@ -634,11 +634,11 @@
 
 5. **CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**.
 
-   *Wiratunga N, Abeyratne R, Jayawardena L, et al*. ICCBR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2404.04302>)]
+   *Wiratunga N, Abeyratne R, Jayawardena L, et al*. ICCBR 2024 [C]. [[pdf](<https://arxiv.org/pdf/2404.04302>)][[dataset](<https://huggingface.co/datasets/umarbutler/open-australian-legal-qa>)]
 
 6. **Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**.
 
-   *Hu Y, Gan L, Xiao W, et al*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2501.06521>)]
+   *Hu Y, Gan L, Xiao W, et al*. COLING 2025 [C]. [[pdf](<https://arxiv.org/pdf/2501.06521>)][[dataset](<https://github.com/YinghaoHu/LegalHalBench>)]
 
 7. **Legal Query RAG**.
 
