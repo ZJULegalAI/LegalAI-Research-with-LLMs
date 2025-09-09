@@ -8,6 +8,33 @@
 
    *Siino M, Falco M, Croce D, et al*. IEEE Access [J]. [[pdf](<https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10850911>)]
 
+2. **Exploring the use of LLMs in the Italian legal domain: A survey on recent applications**.
+
+   *Siino M*. Computer Law & Security Review [J]. [[pdf](<https://www.sciencedirect.com/science/article/pii/S2212473X25000379>)]
+
+#### &nbsp;&nbsp;&nbsp;2024 ####
+
+1. **A survey on llm-as-a-judge**.
+
+   *Gu J, Jiang X, Shi Z, et al*. arXiv [EB/OL]. [[pdf](<https://arxiv.org/pdf/2411.15594?>)]
+
+2. **To what extent have llms reshaped the legal domain so far? a scoping literature review**.
+
+   *Padiu B, Iacob R, Rebedea T, et al*. Information [J]. [[pdf](<https://www.mdpi.com/2078-2489/15/11/662/pdf?version=1729576128>)]
+
+3. **Large language models for automated q\&a involving legal documents: a survey on algorithms, frameworks and applicationse**.
+
+   *Yang X, Wang Z, Wang Q, et al*. International Journal of Web Information Systems [J]. [[pdf](<https://www.emerald.com/ijwis/article-abstract/20/4/413/1216712/Large-language-models-for-automated-Q-amp-A?redirectedFrom=fulltext>)]
+
+
+
+#### &nbsp;&nbsp;&nbsp;2023 ####
+
+1. **A short survey of viewing large language models in legal aspect**.
+
+   *Sun Z*. arXiv [EB/OL]. [[pdf](<https://arxiv.org/pdf/2303.09136>)]
+
+
 ## Legal Classification
 
 ### &nbsp;&nbsp;&nbsp;Data ###
