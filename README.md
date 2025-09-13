@@ -13,7 +13,7 @@ We adopt a **role-based schema** to categorize the applications of LLMs in Legal
 |                 | Frameworks           | Task Workflow Reshaping, Explainability                                   |
 | Evaluation      | Dimensions           | Expanded Evaluation Objectives                                            |
 |                 | Methods              | LLM Scoring, Human-LLM, Output Reconstruction                             |
-
+> This schema is from our paper: *"LegalAI Research in LLM Era: Data, Method and Evaluation".*
 
 ## Surveys of LegalAI with LLMs
 
